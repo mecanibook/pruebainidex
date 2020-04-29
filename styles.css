@@ -1,0 +1,127 @@
+body {
+  background-color: #dbe2ef;
+  margin: 0 auto;
+}
+
+.banner {
+  font-family: verdana;
+  margin: 20px;
+  text-align: center;
+}
+
+.left {
+  display: inline;
+  font-family: verdana;
+  font-size: 23px;
+  margin-top: 90px;
+  margin-left: 20px;
+  padding-right: 80px;
+  float: left;
+}
+
+.center {
+  font-family: verdana;
+  margin-left: 20px;
+  margin-right: 90px;
+  padding-top: 90px;
+  float:inherit;
+  font-style: italic;
+
+}
+
+h1 {
+  color: #112d4e;
+  display: inline;
+}
+
+h3 {
+  color: #112d4e;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.listacomunas {
+  color: #3f72af;
+  font-size: 20px;
+  font-family: verdana;
+}
+
+p {
+  color: #3f72af;
+  font-size: 20px;
+  font-family: verdana;
+  display: inline;
+}
+
+#bannersub {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0;
+}
+
+#bannertitulo {
+  text-align: center;
+  font-size: 70px;
+}
+
+.fototaller {
+  width: 150px;
+  height: 150px;
+}
+
+#wheel {
+  width: 120px;
+  height: 120px;
+  display: inline-block;
+}
+
+.buscador {
+padding-top: 70px;
+display: inline;
+float: left;
+}
+
+button {
+width: 180px;
+height: 30px;
+
+}
+
+.formulario {
+  color: #3f72af;
+  font-size: 20px;
+  font-family: verdana;
+  display: inline;
+
+}
+
+.form {
+  display: inline-block;
+  float: left;
+
+}
+
+hr {
+  border-style: none;
+  border-color: #116979;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 4%;
+
+}
+.comentarios {
+  color: #3f72af;
+  font-size: 20px;
+  font-family: verdana;
+margin-top: 150px;
+
+
+}
+table {
+  color: #3f72af;
+  font-size: 20px;
+  font-family: verdana;
+  margin-top:;
+
+}
